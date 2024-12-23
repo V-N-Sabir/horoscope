@@ -1,7 +1,7 @@
 const TOKEN_BOT = '2081359312:AAGlhDxCS3nqkrhYTdGGfak2XgBdsd0Lzu4';
 const ChannelId = '-1001374181927';
 const refBot = `\n<i>Хотите узнать гороскоп для других знаков зодиака? Получите его прямо через нашего бота:</i> <a href="https://t.me/agentnew_bot">Перейти к боту для гороскопа</a>`;
-
+ 
 const ARIES = 'aries'; // ОВЕН
 const TAURUS = 'taurus'; // Телец
 const GEMINI = 'gemini'; // Близнецы
