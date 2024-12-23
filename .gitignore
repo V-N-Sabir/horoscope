@@ -1,0 +1,65 @@
+#https://github.com/V-N-Sabir/https---github.com-V-N-Sabir-horoscope
+# Node.js
+node_modules/         # Каталог с зависимостями
+npm-debug.log*        # Логи npm при ошибках
+yarn-debug.log*       # Логи Yarn при отладке
+yarn-error.log*       # Логи ошибок Yarn
+package-lock.json     # Если используется Yarn вместо npm (или наоборот)
+.pnpm-debug.log*      # Логи PNPM
+
+# OS-specific files
+.DS_Store             # macOS
+Thumbs.db             # Windows
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment variables
+.env                  # Файлы с конфигурацией среды
+.env.local
+.env.*.local
+
+# Build files
+dist/                 # Собранные файлы
+build/
+
+# IDE и редакторы
+.idea/                # WebStorm/PhpStorm
+.vscode/              # Visual Studio Code
+*.swp                 # Vim
+*.swo
+*.code-workspace
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.orig
+*.patch
+
+# Test coverage
+coverage/
+
+# Miscellaneous
+*.pid                 # PID-файлы
+*.seed
+*.pid.lock
+node_modules
+
+
+.env
+copy_index.js
+getusers.json
+description.txt
+
+index-linux
+index-macos
+1cv83.exe
+
+description.txt
+icon size small
